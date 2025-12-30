@@ -1,0 +1,6 @@
+salt_shed_artists
+.env
+.venv
+_playground.ipynb
+source
+.DS_Store
